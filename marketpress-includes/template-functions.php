@@ -279,7 +279,7 @@ function mp_list_products( $echo = true, $paginate = '', $page = '', $per_page =
     foreach ($custom_query->posts as $post) {
 
 	    if(get_post_meta( $post->ID, 'editors_pick', true )=="Yes") {
-	    	$eds_pick = '<img src="/wp-content/themes/snowboard/images/plat_picks.jpg" /><br />';
+	    	$eds_pick = '<img src="/wp-content/themes/freeskier/images/eds_pick.jpg" /><br />';
 	    } else  {
 	    	$eds_pick = "";
 	    }
