@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: MarketPress Lite
-Version: 2.5.1
+Version: 2.5.1cf
 Plugin URI: http://premium.wpmudev.org/project/e-commerce
-Description: The Lite version of our complete WordPress ecommerce plugin. Activate the plugin, adjust your settings then add some products to your store.
+Description: The Lite version of our complete WordPress ecommerce plugin. Activate the plugin, adjust your settings then add some products to your store. <strong>Hotfixed by Crowd Favorite to fix critical bug. Do not update without confirmation.</strong>
 Author: Aaron Edwards (Incsub)
 Author URI: http://uglyrobot.com
 Text Domain: mp
@@ -73,6 +73,7 @@ class MarketPress {
     }
 
     $settings = get_option('mp_settings');
+	$version = get_option('mp_version');
 
 		//localize the plugin
 		add_action( 'plugins_loaded', array(&$this, 'localization'), 9 );
@@ -148,7 +149,7 @@ class MarketPress {
 		add_action( 'show_user_profile', array(&$this, 'user_profile_fields') );
 
 		//update install script if necessary
-		if ($settings['mp_version'] != $this->version) {
+		if ($version != $this->version) {
 			$this->install();
 		}
 	}
@@ -6417,5 +6418,3 @@ class MarketPress_Tag_Cloud_Widget extends WP_Widget {
 	<?php
 	}
 }
-
-?>
