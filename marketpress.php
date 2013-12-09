@@ -1132,7 +1132,7 @@ Thanks again!", 'mp')
         $order_query = '&order='.$settings['order'];
 
         //The Query
-        query_posts('post_type=product' . $taxonomy_query . $paginate_query . $order_by_query . $order_query);
+        //query_posts('post_type=product' . $taxonomy_query . $paginate_query . $order_by_query . $order_query);
 
         add_filter( 'template_include', array(&$this, 'custom_product_taxonomy_template'));
         add_filter( 'single_post_title', array(&$this, 'page_title_output'), 99 );
