@@ -1,72 +1,83 @@
 === MarketPress - WordPress eCommerce  ===
 Contributors: WPMUDEV, uglyrobot
-Tags: store, sell, ecommerce, shopping, marketplace, multisite, buddypress, wpmu
-Requires at least: 3.3
-Tested up to: 3.3.1
+Tags:  buddypress, cart, checkout, digital downloads, downloads, e-downloads, ecommerce, inventory, marketplace, multisite, sales, sell, shipping, shop, shopping, stock, store, tax, VAT, WordPress commerce, 2Checkout, 2CO, Authorize.net, Authorize, AIM Checkout, Bitpay,  eWay Shared Payments, eWay Rapid 3.0 Payments, iDEAL, Manual Payments, Skrill, Moneybookers, PayPal Payflow Pro,  Paymill, PayPal Chained Payments, PayPal Express Checkout, PIN, Simplify Commerce by MasterCard, Stripe, WePay, UPS, USPS, FedEx, Pickup, Widgets, Variable,  physical, virtual, tangible, intangible, wp e-commerce
+Requires at least: 3.7
+Tested up to: 3.9
 Stable tag: trunk
 
-The best free ecommerce plugin available for WordPress - easy to use, beautiful & powerful.
+MarketPress is the best free eCommerce plugin available for WordPress. Beautiful, powerful and easy to use.
 
 == Description ==
 
-MarketPress is the easiest to use, best designed and most powerful ecommerce / shopping cart plugin available for WordPress today.
+MarketPress sets the standard for WordPress eCommerce solutions, providing an elegant shopping experience that supports all major payment gateways and allows you to easily manage distribution and shopping costs with custom shipping options.
 
-Developed from the ground up to make it **simple** to set up a stylish online shop, MarketPress has all the features you need, including:
+Why spend thousands of dollars on cowboy-coded extensions and add-ons? There's no need to purchase extra add-ons or special licenses when MarketPress brings together the power of dozens of different plugins in one solid standalone product.
 
-* Multiple payment gateways (PayPal, Authorize.net, Google checkout, 2checkout, Moneybookers, eWay, Cubepoints and more)
-* Works great with any WordPress theme and looks great with AJAXy goodness
-* Fully internationalized by the WPML crew
-* Sell real objects, or digital downloads (with limits and tracking!), with ease
-* Shipping, coupons, Google Analytics Ecommerce tracking, sale pricing, unlimited product variations, and so so much more!
+[youtube http://www.youtube.com/watch?v=4QX1P7e-9dw&hd=1]
 
-And, did you know that MarketPress is also 100% WordPress Multisite and BuddyPress compatible - so **you can use it to start your own Etsy or Ebay style network of stores... where you take a % on each sale!!!**
+= Features = 
 
-So, what are you waiting for, download MarketPress today and give it a crack.
+Setting up your own online store couldn't be easier with MarketPress. Features include:
 
-We guarantee you'll enjoy it right out of the box... although we provide comprehensive documentation and support if you need it :)
-[youtube http://www.youtube.com/watch?v=Wa8fUFKwl-k&hd=1]
-
-Or, read on to find out more about what you can get from MarketPress...
-
-= Sick of WP-ecommerce? =
-One of the main reasons we developed MarketPress was because, basically, so many of the existing WordPress ecommerce plugins out there offer a pretty awful user experience. WP-ecommerce being the most popular, we built a complete importer - allowing you to easily import your troublesome WP-ecommerce store into MarketPress... hurrah!
-
-= Want to make your product listings look amazing? =
-MarketPress is 100% customizable, but in case you don't want to get stuck into all that CSS, it comes with:
-
-* Amazing themes (that you can customize without knowing a single line of code)
-* Beautiful preset CSS styles
-* Powerful, yet elegant, widgets 
-* Hot product thumbnails/images with lightbox zooming
-
-And when it comes to the actual sales, we've got every feature you could ask for, including (but not limited to):
-
-* Payment gateways coming out of our ears
-* 100% ready for easy translation into any language
+* All the major payment gateways
 * Supports all major currencies
+* Fully internationalized by the WPML crew
+* Sell real objects or digital downloads
 * Ready to go for tax and VAT
-* Digital or physical objects
 * Multiple shipping options
-* Coupons, discounts and affiliate ready
-* Fully integrated with Google Analytics eCommerce
+* Coupons, discounts and affiliate-ready
+* Fully integrated with Google Universal Analytics eCommerce tracking
 * Unlimited product variations
+* Coupons and sales pricing
 * Stock tracking and alerts per variation
 * Per order product limits
 * AJAX cart and cart widget
-* Powerful shortcodes that you can use anywhere
-* Link any product to an external link (helooo Amazon affiliates!)
+* Powerful shortcodes you can use anywhere
+* Link any product to an external link
 * Categories and tags
 * Stock tracking and order management and alerts
 * Fully customizable urls
-* Checkout *without* having to be a site user
-* Start your own Etsy shopping network
-* Global shopping carts (for that network)
+* Checkout without having to be a site user
+* Looks great with any WordPress theme
 
-And that's really just the beginning, there's so much more, but the only way you'll get to find out about that is to try it...
+= Easily Customizeable = 
 
-We guarantee that it's simply the best - what else would you expect from WPMU DEV!
+There's no limit to how you can change the look and feel of MarketPress, but in case you don't want to get stuck into CSS, it comes with:
 
-<a href="http://premium.wpmudev.org/project/e-commerce-lite">Download the free version</a> | <a href="http://premium.wpmudev.org/project/e-commerce">Download the pro version</a>
+* Beautiful themes you can customize without touching code
+* Preset CSS styles
+* Powerful widgets
+* Product thumbnails/images with lightbox zooming
+
+= Powerful Widgets = 
+
+Use the Shopping Cart widget to dynamically display a cart's contents along with a checkout button. Thanks to AJAX, you can add an item and it shows in the cart instantly. You can also display product tag clouds, product categories and product lists with our handy widgets.
+
+= Solid Shortcodes =
+
+Designing and organising your online store has never been easier. With our powerful shortcodes you can create beautiful and complex layouts with ease, greatly Improving the functionality of your site without the added frustration of editing code.
+
+= Multisite and BuddyPress Compatible = 
+
+MarketPress is 100 per cent compatible with Multisite and BuddyPress. You could set up your own eBay or Etsy-style network of stores and take a percentage of each sale!
+
+= Comprehensive Documentation =
+
+We've designed MarketPress to provide a simple and beautiful user experience. But if you do get stuck, we've got all the documentation you need to understand the ins and outs of how it works.
+
+Our <a href="https://premium.wpmudev.org/project/e-commerce/#usage>
+in-depth step-by-step usage guide</a> includes handy screenshots. We've also got a fantastic <a href="https://premium.wpmudev.org/project/e-commerce/#usage>
+video guide</a> that walks you through the settings in MarketPress.
+
+= Want More? =
+
+<a href="http://premium.wpmudev.org/project/e-commerce/">Download the pro version</a> for:
+
+* Product personalization (i.e. assign a customer entered text field to a product)
+* Google Analytics eCommerce tracking
+* More than one built-in store style
+* Calculated shipping modules (UPS, USPS, Fedex, in-store pickup)
+* Full suite of payment methods (Lite version only displays PayPal Express, Simplify and manual payment gateways)
 
 == Installation ==
 = To Install: =
@@ -74,14 +85,13 @@ We guarantee that it's simply the best - what else would you expect from WPMU DE
 1.  Download the MarketPress plugin file
 2.  Unzip the file into a folder on your hard drive
 3.  Upload the `/wordpress-ecommerce/` folder to the `/wp-content/plugins/` folder on your site
-4.  Visit Network Admin -> Plugins and Network Activate it there.
-5.  Alternatively, you can activate this plugin on individual sites by going to the Site Admin -> Plugins menu and activating there.
+4.  Visit your Dashboard -> Plugins and Activate it there.
 
 = To Set Up And Configure MarketPress =
-* You can find <a href='http://premium.wpmudev.org/project/e-commerce/installation/'>in-depth setup and usage instructions with screenshots here &raquo;</a>
+* You can find <a href='http://premium.wpmudev.org/project/e-commerce/#usage'>in-depth setup and usage instructions with screenshots here &raquo;</a>
 
 = Importing products from the WP e-Commerce plugin =
-As of the 2.1 update you can import products directly into MarketPress from WP e-Commerce 3.8+ (older versions not compatible)
+You can import products directly into MarketPress from WP e-Commerce
 
 1.  Activate WP e-Commerce and MarketPress plugins
 2.  Go to Site Admin>Products>Store Settings and click the tab for "WP e-Commerce Importer"
@@ -98,7 +108,7 @@ What else could I get in the premium version?
 
 * Product downloads - sell digital goods!
 * Powerful coupon codes for your store with usage tracking and limits
-* Access to all gateways including:  2Checkout, Authorize.NET AIM, Google Checkout, Moneybookers, Stripe, Payflow Pro, iDEAL, and PayPal chained payments
+* Access to all gateways including:  2Checkout, Authorize.NET AIM, Moneybookers, Stripe, Payflow Pro, iDEAL, PIN, Simplify, WePay, PayMill, eWay, and PayPal chained payments
 * More built-in styles, or add your own simple CSS based styles
 * Multisite marketplace features - product lists, tags, categories, widgets, and shortcodes
 * Charge for store upgrades like styles and gateways with our Pro Sites plugin
@@ -106,26 +116,290 @@ What else could I get in the premium version?
 * Ability for Network owner to take a percentage of each marketplace sale through the PayPal chained payment gateway
 * Import digital downloads from WP e-Commerce into MarketPress!
 
-<a href='http://premium.wpmudev.org/project/e-commerce'>**Upgrade to the full version now &raquo;**</a>
+<a href='http://premium.wpmudev.org/project/e-commerce/'>**Upgrade to the full version now &raquo;**</a>
 
 = Is this BuddyPress compatible? =
 Absolutely.  MarketPress will work on individual sites in BuddyPress.  In the future we plan to offer BuddyPress profile integration as well!
 
 = How do I get support? =
-We provide comprehensive and guaranteed support on the <a href='http://premium.wpmudev.org/forums/tags/marketpress-wordpress-ecommerce'>WPMU DEV forums</a> and <a href='http://premium.wpmudev.org/live-support/'>live chat</a> only.
+We provide comprehensive and guaranteed support on the <a href='http://premium.wpmudev.org/forums/tags/marketpress-ecommerce'>WPMU DEV forums</a> and <a href='http://premium.wpmudev.org/live-support/'>live chat</a> only.
 
 == Screenshots ==
 
-1. Shipping Information
-2. Message Settings
-3. Product Listings
-4. Product Details
-5. Product Downloads
-6. Single Product View
-7. Shopping Cart
-8. Grid Layout
+1. Store Menu
+2. Product Grid
+3. Single Product
+4. Add to Cart
+5. MarketPress Widgets
+6. Importers
+7. Product Variations
+8. Manage Orders
 
 == Changelog ==
+
+= 2.9.2.1 =
+- Fixed: Simplify gateway would cause errors when enabled with other gateways http://wp.mu/8w1
+- Added: "mp_orders_cap" filter which allows developers to easily change the capability type required to view the orders menu
+- Fixed: Divide by zero warning in USPS gateway
+- Fixed: Mixed-content warnings in wp-admin
+- Fixed: Session handling code that caused issues with PayPal Express checkout 
+- Fixed: Conflict with WordPress Social Invitations plugin http://wp.mu/8ul
+- Fixed: When using WPML and [mp_product] shortcode the non-translated version of the product would be returned
+- Fixed: GA E-Commerce bug http://wp.mu/8ve
+- Fixed mixed-content issues on checkout pages when using SSL
+- Fixed when importing products from csv, products with stock set to 0 wouldn't be tracked http://wp.mu/8sp
+- Removed outdated translation files
+- Added support for all Stripe payment gateway currencies http://wp.mu/8sw
+- Updated session handling code - fixes some PHP warnings that some users were reporting
+- Fixed some bugs in WePay gateway
+- Localization files (.mo) can now be loaded from wp-content/language/marketpress/mp-{your locale}.mo
+- Fixed issue (fatal error) when calculating total price with taxes in 2checkout payment gateway
+- Fixed a bug where product pagination sometimes wouldn't display
+- Fixed a bug in [mp_list_products] where products would always show above all other content
+- Updated some default styles for cart widget
+- Update .pot file
+- Added presentation settings for choosing alignment of product image instead of always "alignleft"
+- Updated mp_product_image function/shortcode to allow for setting product image alignment
+- Fixed a bug where product filters would show even if turned off in presentation settings
+- Fixed a Genesis theme compatibility update for >2.0
+- Fixed a bug where no lightbox would show when using the [mp_product_image context="single"] shortcode with lightbox enabled in presentation settings http://wp.mu/8ov
+- Added new payment gateway - WePay (beta)
+
+= 2.9.0.3 =
+* Fix: Genesis theme compatibility update for >2.0
+* Use WP3.8 dashicon for admin menu
+* Fixed a bug with product filters some times redirecting to a 404 page or returning the wrong product set
+* Fixed a bug when calling mp_list_products() with no arguments, the default set of arguments would be populated incorrectly
+* Fixed a bug where product listings would use default posts per page setting instead of the value in MarketPress presentation settings
+* Fixed a bug where users couldn't update products/order after updating
+* Added Coupons for individual categories/products
+* Added compatibility with Google Universal Analytics
+* Added Stripe embedded form button
+* Added Pinterest "Rich Pins" w/advanced oembed endpoint 
+* Added show related products option
+* Added Pickup in-store shipping option
+* Added ability to assign a custom per-order limit to a product
+* Add setting to turn off downloadable product default 1 per order limit
+* Added filters to many template functions
+* Minor bugfixes on Simplify gateway
+* Deleted orders are now removed from usermeta
+* Fixed bug with 2checkout where amount was returning more than 2 decimal places
+* Added Russian Rubles to paypal currencies and locale
+* Fix php warnings when switching between non-calculated shipping modules
+* Fix bug with which gateway is shown when switching global cart in network settings
+* Fix possible rounding error in Stripe gateway
+* In Calculated Shipping plugins changed so if all weights in an order are zero then show Free Shipping
+* In FedEx fixed problem with calculating the correct number of packages.
+* Added https support for custom styles in the wp-content/marketpress-styles/ directory.
+* Added ajax checkout error flag which is set when ajax starts and reset when ajax is finished. Prevents form submits from aborting shipping lookups.
+* Removed apply_filters("mp_shipping_options_... call in extra_shipping_box_label() It passes nulls instead of an address so it can't properly recalculate the options anyway.
+* Changes to USPS to standardize across the calculated shipping plugins.
+* Make messages visual editor css more specific to avoid conflicts
+* Add US Virgin Islands to USPS allowed base country list
+* Added 4 new currencies to PayMill payment gateway (BGN, HRK, GIP, RON)
+* Added 3 new currencies to PIN payment gateway (SGD, EUR and GBP)
+* Added Australian Dollars (AUD) currency to Stripe payment gateway
+* Added Norwegian Krone (NOK) currency to Skrill / MoneyBookers payment gateway
+* Added 8 new currencies to 2CheckOut payment gateway (AED, ILS, LTL, PHP, RON, RUB, SGD, TRY)
+* Added 2 new currencies to Authorize.net AIM payment gateway (AUD and NZD)
+* Add filter so certain products can be excluded from GA tracking
+* Pass manual gateway instuctions through wpautop() and allow shortcodes in it
+* Remove encoded html from PayPal IPN strings http://wp.mu/7s9
+* Delay upgrade rewrite flush to end of init hook http://wp.mu/7vt
+* Remove retired Google checkout gateway
+* Fixed bug with PayPal Express gateway and coupons where totals would be incorrect after being transferred to PayPal
+* Updated mp_list_products() function to use WP-style arguments - users can still use existing argument style if they wish
+* Added mp_list_products() can now display filters - no need to call mp_products_filter() in your theme template
+* Added mp_list_products() can now display pagination
+* Added mp_products_nav() to display products pagination
+* Fixed some warnings related to shipping fields when checking out
+* Fixed premature deletion of csv import file after previously deleting
+* Fixed old text in Payflow gateway
+* Related products can now be set to use either categories/tags separately or both at the same time
+* Fixed bug when using category filter the page title, menu item, etc would not update accordingly http://wp.mu/8l9
+* Fixed bug when checking out digital downloads and shipping was enabled the user would still be asked to choose a shipping method http://wp.mu/8mz
+* Added PIN payment gateway (beta)
+* Added Simplify Commerce gateway by MasterCard
+* Add multiple currency support to Payflow Pro gateway
+* Add Euro support to Stripe gateway (Ireland)
+* Add "Tax Label" setting to customize the tax line item label in the cart
+* Removed all the old style PHP 4 constructors (Class name functions)
+* Remove help screen when WPMUDEV_REMOVE_BRANDING defined
+* Fixed order_confirmation_email() declaration to match it's parent.(Warnings)
+* In USPS shipping added maximum box weights to flat rate boxes to improve calculating the number of boxes needed.
+* Fixed problem where shipping option could be unselected if the suboption disappeared due to changing the address.
+* In FedEx, default to residential delivery. Only allow the customer to change residential to commercial if Allow Commercial checked in settings.
+* Changed Continue Checkout buttonform disabled to hide during the shipping rate update.
+* Fix admin styles that stopped being included due to a typo
+* Avoid errors in the Paypal gateway if 100% coupons are used by making price 0.01
+* Don't show confusing subtotal with tax inclusive pricing on
+* Add SKU's to admin new order notification email
+* Fixed a rounding error with Paypal chained and Tax Inclusive pricing
+* Add support for Ireland locale in paypal and not require postal code
+* Add support for CAD, EUR and GBP to Authorize.net AIM gateway
+* Add support for GBP to Stripe gateway
+* Fix store count on global checkout confirmation screen
+* Fix coupons datepicker
+* Added process_shipping_form call to shipping_sub_options() so that custom fields that can affect shipping will be read. (ie Resedential in FedEx)
+* Make custom column code more efficient - props @michael_cannon
+* Add a note to table rate shipping that it uses the pre-tax order total
+* Add Serbia and Montenegro country codes
+* Add mp_product_title() template function
+* Add mp_product_description template function
+* Add mp_product_meta template function
+* Make order and payment history times adjust dynamically for the site timezone
+* Add Paymill gateway (beta)
+* Fix encoded discount display in confirmation emails and PayPal
+* Fix products display reverting to grid in list mode when ajax filters are used
+* Fix undefined filter_post_kses error for subsite admins in multisite in Manual Payments and Cubepoints gateways
+* Fix a Manage Orders page pagination display bug/conflict
+* Fix fatal conflict with SEO features of Genesis/Catalyst themes on category pages
+* Change text of last checkout breadcrumb to "Order Complete"
+* Sanitize price fields in various shipping modules
+* Add New Zealand locale to paypal gateways
+* Fix broken new order emails if % is included in product title
+* Fix paypal express documentation links
+* Add setting for "Collect Address on Downloadable Only Cart"
+* SQL injection hardening
+* Allow styling of global products by site (blogid in classname)
+* Fix sort by price in product list widget http://wp.mu/1r5
+* Fix popular products shortcode ordering
+* Change Shipping form label when shipping is turned off
+* Add CAD to stripe gateway
+* Add Israel locale to PayPal gateway
+* Fix function name conflict with WP-Client plugin
+* Fix mp_product_list shortcode list_view argument
+* Added eWay Rapid Payments 3.0 gateway (beta)
+* Fixed FedEx no results problem. Shipment in non US countries were treated as International even though the destination was the same country.
+* Added "Disable Large Image Display" to Presentatio, which prevents clicking on a product image from displaying a large image. Requested to prevent poaching large gallery images.
+* Changed class if Lightbox is disabled so that if another plugin loads lightbox the product images won't use it.
+* Fix a fatal error that slipped through when sending emails. Important!
+* Add mp_product_sku() template function and shortcode
+* Add setting to disable sales tax on digital products if desired
+* Add option to set products to draft when out of stock
+* Show all gateways to super admins in multisite (avoid confusion)
+* Fix rounding errors with tax inclusive pricing (big one!)
+* Fix problems with ajax paging with grid on taxonomy archive pages
+* Fix css class on product images
+* Fix being unable to overwrite shipping information fields with a blank value
+* Fix grid bug when no styles are loaded http://wp.mu/h7
+* Pass messages settings through wpautop()
+* Added check for US country before trimming zip code to 5 characters in calculated shipping modules
+* Disabled continue button on shipping form while shipping rates are being updated
+* Fix up some notices and warnings on profile page: http://wp.mu/kl
+* Reformat various template functions and their documentation
+* Fix bug in PayPal/Moneybookers/eWay gateways with shipping method set to none
+* Fix iDeal gateway tax inclusive pricing bug by dropping extra tax line item
+* Add very beta Fedex shipping module
+* Fix php warning when marking as shipped
+* Fix missing orders export box on All orders page: http://wp.mu/ee
+* Small fixes to css styles for external links
+* Added UPS Shipping plugin!
+* Added built in grid views!
+* Add in AJAX dropdown category and order filters to listings pages
+* Add optional breadcrumbs to checkout process steps
+* Add default product images
+* Added ability to trash/delete orders and adjusts stock counts accordingly
+* Add featured image import support to the CSV importer
+* Add a "clone product" functionality
+* Add hooks for custom shipping methods and tracking links
+* Major refresh of css styles
+* Forced shipping option recalculation when Country changes.
+* Fix php warning on category list page old menus
+* Fix bug with product list widget when ordering by price or sales
+* Fix missing closing tag in global widget breaking drag and drop
+* Fix shipping settings save filter for method plugins: http://wp.mu/d7
+* Error check in Manual Payments gateway: http://premium.wpmudev.org/forums/topic/bug-with-manual-payment
+* Fixed 10525 Paypal errors in global cart checkouts
+* Change the "from" price shown on variation listings to the lowest
+* Change PayPal generated timestamps for server timezone support
+* Fix double trigger of 'mp_order_paid' hook
+* Added APO state codes to the marketpress-data.php so addresses can make it past PayPal's address checker,
+* Use "APO", "FPO" or "DPO" for the City and 10 digit Zip code.
+* Sorted USPS shipping choices in Ascending order so that the lowest price will be the default.
+* Changed the Shipping sub options <select> to a select box instead of a dropdown.
+* Added code to insure the first item in the Shipping sub options is selected if suboption is blank. Makes sure an item shows in iPad.
+* Set minimum "size" on shipping_sub_options select box to 4 for Safari and Chrome quirk.
+* Removed Handling charge display from USPS shipping options.
+* Let ounces go decimal for shipping weight
+* Add hooks to coupon functions
+* Added another error passing method for calculated rates. If a suboption key contains 'error' the value is an error message.
+* Fix ajax when force admin ssl is on
+* Fix conflict with PODS plugin
+* Other minor bug/notice fixes
+* Include shopping cart item details in orders CSV exports
+* fix special instructions in CSV order exports
+* Add special instructions to admin new order notification
+* Support ecommerce tracking with our Google Analytics plugin on multisite
+* Don't require shipping fields when Shipping Modules are turned off
+* Display shipping inclusive of tax if tax inclusive pricing is on
+* Urlencode paypal url fields to support utf8 store slugs
+* Fix an error and debug code in PayPal Express gateway
+* Fix custom message showing in cart widget when empty: http://premium.wpmudev.org/forums/topic/shopping-cart-page-message-repeating-in-shopping-cart-widget
+* Fix hooks for Affiliate plugin integration with Manual Payments gateway. Props @Rystraum!
+* iDeal gateway bugfixes
+* Fix rounding problems with tax prices when tax inclusive pricing is on
+* Fix bug in flat rate shipping calculations
+* Fix issue with shipping being charged for downloadable orders in global cart
+* Important bugfix with saving Extra Shipping costs and Weights
+* Fix bugs in iDeal gateway: http://premium.wpmudev.org/forums/topic/ideal-making-it-work
+* Add Schema.org microdata to products for SEO, props @aristath!
+* Add "from" price label to listings of multiple variation products
+* Add cart message even when its empty
+* Many many php notice fixes
+* Fix major issues with new sites and coupons
+* Fix coupons with a number as the code
+* Fix rewrite flushing when changing store slugs
+* Fix a stripslashes issue with email settings
+* Fix unchecking of personalization checkboxes bug
+* Fix outdated product urls in orderstatus after slug changes
+* Added per shipment handling charge to USPS, one for domestic and one for international shipping.
+* Add Argentina and Brazil to PayPal gateway countries
+* Fix issue with category dropdown widget displaying all products
+* Fix some potential problems with new installs and the CubePoints gateway
+* Display Shipping Option and Shipping Sub Option next to shipping cost on Order Manage Page.
+* Added shipping method to the SHIPPINGINFO in email. If mp_shipping_info['method'] not yet set from actual shipping, displays the customer's choice.
+* Show Shortcodes and importers tabs in listing only mode
+* Major bugfix to gateway plugins settings filters
+* Fix stripslashes issue with manual payments gateway
+* Fix email filtering for manual payments gateway
+* Change order of 'mp_new_order' hook
+* Add some more filters for WPML compatibility
+* Verify product_ids before adding to cart
+* Fix Egypt Pounds currency symbol
+* Fix missing labels for custom styles in Network settings
+* Added support for per Product and variation custom fields for personalization
+* Allow shortcodes to work in custom page messages
+* Fix issue with Stripe payment gateway JS conflict. http://premium.wpmudev.org/forums/topic/marketpress-problem-cant-finish-checking-out
+* Fix an issue with numbered tags showing all products
+* Bug fixes with $content argument in mp_product template function/shortcode
+* Wrap prev/next nav links in wrapper for styling
+* Fix problems with USPS shipping module
+* Fix stripslashes issue with widget custom content
+* Fix issues with single product shortcode attributes
+* Improvements to coupon handling in PayPal Express gateway
+* Add cart details to PayPal Express gateway paypal history
+* Fix a bug in chained payments gateway not filling shipping/tax totals
+* Internationalize various date strings on the order status pages
+* Add UTF-8 BOM to csv exports http://premium.wpmudev.org/forums/topic/export-orders-csv-character-support
+* Fix issues with PayPal chained payments gateway for sure
+* Fix bug in Payflow Pro gateway: http://premium.wpmudev.org/forums/topic/marketpress-payflow-pro-not-sending-info-to-paypal
+* Separate AJAX cart and checkout JS: http://premium.wpmudev.org/forums/topic/checkout-button-disappears
+* Create MP_HIDE_MENUS define to hide store menus
+* Add basic error messages for downloads
+* Fix ocassional issues with chained payments gateway
+* Fix shortcodes documentation
+* Fix stripslashes issue in cart widget custom text
+* Fix bug with x_delim_data in authorize.net gateway
+* Fix wrong orderstatus link on global checkout confirmation page
+* Four new shortcodes! [mp_product] (display a single product anywhere!), [mp_product_image], [mp_buy_button], [mp_product_price]
+* Add support for custom css files in /wp-content/marketpress-styles/ folder to avoid overwriting on updates
+* Fixed improper switching to V2 rate schedule on foreign orders in USPS module - Arnold Bailey
+* Genesis compatibility improvements with it's featured images settings
+* Fix bug with message display when there are no products in the product list or shortcode
+* Fix table/weight rate shipping calculations for Canada - props shaunmacrae
+* Minor fixes/updates to the WP ecommerce importer
+* Minor fix to the Store Styles drop down display
 
 = 2.5.1 =
 * Fix bugs with iDEAL gateway
